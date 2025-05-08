@@ -1,0 +1,28 @@
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3 Inventory Management System\Assignment 3\bin\Debug\net8.0\Inventory Management System.exe
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3 Inventory Management System\Assignment 3\bin\Debug\net8.0\Inventory Management System.deps.json
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3 Inventory Management System\Assignment 3\bin\Debug\net8.0\Inventory Management System.runtimeconfig.json
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3 Inventory Management System\Assignment 3\bin\Debug\net8.0\Inventory Management System.dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3 Inventory Management System\Assignment 3\bin\Debug\net8.0\Inventory Management System.pdb
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3 Inventory Management System\Assignment 3\obj\Debug\net8.0\Inventory Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3 Inventory Management System\Assignment 3\obj\Debug\net8.0\Inventory Management System.AssemblyInfoInputs.cache
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3 Inventory Management System\Assignment 3\obj\Debug\net8.0\Inventory Management System.AssemblyInfo.cs
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3 Inventory Management System\Assignment 3\obj\Debug\net8.0\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3 Inventory Management System\Assignment 3\obj\Debug\net8.0\Inventory Management System.dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3 Inventory Management System\Assignment 3\obj\Debug\net8.0\refint\Inventory Management System.dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3 Inventory Management System\Assignment 3\obj\Debug\net8.0\Inventory Management System.pdb
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3 Inventory Management System\Assignment 3\obj\Debug\net8.0\Inventory Management System.genruntimeconfig.cache
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3 Inventory Management System\Assignment 3\obj\Debug\net8.0\ref\Inventory Management System.dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3\Assignment 3\bin\Debug\net8.0\Inventory Management System.exe
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3\Assignment 3\bin\Debug\net8.0\Inventory Management System.deps.json
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3\Assignment 3\bin\Debug\net8.0\Inventory Management System.runtimeconfig.json
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3\Assignment 3\bin\Debug\net8.0\Inventory Management System.dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3\Assignment 3\bin\Debug\net8.0\Inventory Management System.pdb
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3\Assignment 3\obj\Debug\net8.0\Inventory Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3\Assignment 3\obj\Debug\net8.0\Inventory Management System.AssemblyInfoInputs.cache
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3\Assignment 3\obj\Debug\net8.0\Inventory Management System.AssemblyInfo.cs
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3\Assignment 3\obj\Debug\net8.0\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3\Assignment 3\obj\Debug\net8.0\Inventory Management System.dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3\Assignment 3\obj\Debug\net8.0\refint\Inventory Management System.dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3\Assignment 3\obj\Debug\net8.0\Inventory Management System.pdb
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3\Assignment 3\obj\Debug\net8.0\Inventory Management System.genruntimeconfig.cache
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 3\Assignment 3\obj\Debug\net8.0\ref\Inventory Management System.dll

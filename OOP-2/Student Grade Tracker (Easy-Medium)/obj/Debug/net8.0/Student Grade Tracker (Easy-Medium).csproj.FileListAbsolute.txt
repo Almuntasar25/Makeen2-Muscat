@@ -1,0 +1,14 @@
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Student Grade Tracker (Easy-Medium)\bin\Debug\net8.0\Student Grade Tracker (Easy-Medium).exe
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Student Grade Tracker (Easy-Medium)\bin\Debug\net8.0\Student Grade Tracker (Easy-Medium).deps.json
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Student Grade Tracker (Easy-Medium)\bin\Debug\net8.0\Student Grade Tracker (Easy-Medium).runtimeconfig.json
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Student Grade Tracker (Easy-Medium)\bin\Debug\net8.0\Student Grade Tracker (Easy-Medium).dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Student Grade Tracker (Easy-Medium)\bin\Debug\net8.0\Student Grade Tracker (Easy-Medium).pdb
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Student Grade Tracker (Easy-Medium)\obj\Debug\net8.0\Student Grade Tracker (Easy-Medium).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Student Grade Tracker (Easy-Medium)\obj\Debug\net8.0\Student Grade Tracker (Easy-Medium).AssemblyInfoInputs.cache
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Student Grade Tracker (Easy-Medium)\obj\Debug\net8.0\Student Grade Tracker (Easy-Medium).AssemblyInfo.cs
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Student Grade Tracker (Easy-Medium)\obj\Debug\net8.0\Student Grade Tracker (Easy-Medium).csproj.CoreCompileInputs.cache
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Student Grade Tracker (Easy-Medium)\obj\Debug\net8.0\Student Grade Tracker (Easy-Medium).dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Student Grade Tracker (Easy-Medium)\obj\Debug\net8.0\refint\Student Grade Tracker (Easy-Medium).dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Student Grade Tracker (Easy-Medium)\obj\Debug\net8.0\Student Grade Tracker (Easy-Medium).pdb
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Student Grade Tracker (Easy-Medium)\obj\Debug\net8.0\Student Grade Tracker (Easy-Medium).genruntimeconfig.cache
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Student Grade Tracker (Easy-Medium)\obj\Debug\net8.0\ref\Student Grade Tracker (Easy-Medium).dll

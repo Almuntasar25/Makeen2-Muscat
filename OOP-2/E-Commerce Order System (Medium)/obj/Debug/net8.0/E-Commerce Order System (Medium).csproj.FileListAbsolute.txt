@@ -1,0 +1,14 @@
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\E-Commerce Order System (Medium)\bin\Debug\net8.0\E-Commerce Order System (Medium).exe
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\E-Commerce Order System (Medium)\bin\Debug\net8.0\E-Commerce Order System (Medium).deps.json
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\E-Commerce Order System (Medium)\bin\Debug\net8.0\E-Commerce Order System (Medium).runtimeconfig.json
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\E-Commerce Order System (Medium)\bin\Debug\net8.0\E-Commerce Order System (Medium).dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\E-Commerce Order System (Medium)\bin\Debug\net8.0\E-Commerce Order System (Medium).pdb
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\E-Commerce Order System (Medium)\obj\Debug\net8.0\E-Commerce Order System (Medium).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\E-Commerce Order System (Medium)\obj\Debug\net8.0\E-Commerce Order System (Medium).AssemblyInfoInputs.cache
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\E-Commerce Order System (Medium)\obj\Debug\net8.0\E-Commerce Order System (Medium).AssemblyInfo.cs
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\E-Commerce Order System (Medium)\obj\Debug\net8.0\E-Commerce Order System (Medium).csproj.CoreCompileInputs.cache
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\E-Commerce Order System (Medium)\obj\Debug\net8.0\E-Commerce Order System (Medium).dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\E-Commerce Order System (Medium)\obj\Debug\net8.0\refint\E-Commerce Order System (Medium).dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\E-Commerce Order System (Medium)\obj\Debug\net8.0\E-Commerce Order System (Medium).pdb
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\E-Commerce Order System (Medium)\obj\Debug\net8.0\E-Commerce Order System (Medium).genruntimeconfig.cache
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\E-Commerce Order System (Medium)\obj\Debug\net8.0\ref\E-Commerce Order System (Medium).dll

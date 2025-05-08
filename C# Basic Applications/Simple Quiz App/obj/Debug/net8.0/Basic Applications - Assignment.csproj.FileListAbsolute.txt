@@ -1,0 +1,29 @@
+C:\Users\EST\Desktop\Proplem Of a Day\C# test\Basic Applications - Assignment\obj\Debug\net8.0\Basic Applications - Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EST\Desktop\Proplem Of a Day\C# test\Basic Applications - Assignment\obj\Debug\net8.0\Basic Applications - Assignment.AssemblyInfoInputs.cache
+C:\Users\EST\Desktop\Proplem Of a Day\C# test\Basic Applications - Assignment\obj\Debug\net8.0\Basic Applications - Assignment.AssemblyInfo.cs
+C:\Users\EST\Desktop\Proplem Of a Day\C# test\Basic Applications - Assignment\obj\Debug\net8.0\Basic Applications - Assignment.csproj.CoreCompileInputs.cache
+C:\Users\EST\Desktop\Proplem Of a Day\C# test\Basic Applications - Assignment\obj\Debug\net8.0\Basic Applications - Assignment.sourcelink.json
+C:\Users\EST\Desktop\Proplem Of a Day\C# test\Basic Applications - Assignment\bin\Debug\net8.0\Basic Applications - Assignment.exe
+C:\Users\EST\Desktop\Proplem Of a Day\C# test\Basic Applications - Assignment\bin\Debug\net8.0\Basic Applications - Assignment.deps.json
+C:\Users\EST\Desktop\Proplem Of a Day\C# test\Basic Applications - Assignment\bin\Debug\net8.0\Basic Applications - Assignment.runtimeconfig.json
+C:\Users\EST\Desktop\Proplem Of a Day\C# test\Basic Applications - Assignment\bin\Debug\net8.0\Basic Applications - Assignment.dll
+C:\Users\EST\Desktop\Proplem Of a Day\C# test\Basic Applications - Assignment\bin\Debug\net8.0\Basic Applications - Assignment.pdb
+C:\Users\EST\Desktop\Proplem Of a Day\C# test\Basic Applications - Assignment\obj\Debug\net8.0\Basic Applications - Assignment.dll
+C:\Users\EST\Desktop\Proplem Of a Day\C# test\Basic Applications - Assignment\obj\Debug\net8.0\refint\Basic Applications - Assignment.dll
+C:\Users\EST\Desktop\Proplem Of a Day\C# test\Basic Applications - Assignment\obj\Debug\net8.0\Basic Applications - Assignment.pdb
+C:\Users\EST\Desktop\Proplem Of a Day\C# test\Basic Applications - Assignment\obj\Debug\net8.0\Basic Applications - Assignment.genruntimeconfig.cache
+C:\Users\EST\Desktop\Proplem Of a Day\C# test\Basic Applications - Assignment\obj\Debug\net8.0\ref\Basic Applications - Assignment.dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 2\Assignment 2 Simple Quiz App\bin\Debug\net8.0\Basic Applications - Assignment.exe
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 2\Assignment 2 Simple Quiz App\bin\Debug\net8.0\Basic Applications - Assignment.deps.json
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 2\Assignment 2 Simple Quiz App\bin\Debug\net8.0\Basic Applications - Assignment.runtimeconfig.json
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 2\Assignment 2 Simple Quiz App\bin\Debug\net8.0\Basic Applications - Assignment.dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 2\Assignment 2 Simple Quiz App\bin\Debug\net8.0\Basic Applications - Assignment.pdb
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 2\Assignment 2 Simple Quiz App\obj\Debug\net8.0\Basic Applications - Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 2\Assignment 2 Simple Quiz App\obj\Debug\net8.0\Basic Applications - Assignment.AssemblyInfoInputs.cache
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 2\Assignment 2 Simple Quiz App\obj\Debug\net8.0\Basic Applications - Assignment.AssemblyInfo.cs
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 2\Assignment 2 Simple Quiz App\obj\Debug\net8.0\Basic Applications - Assignment.csproj.CoreCompileInputs.cache
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 2\Assignment 2 Simple Quiz App\obj\Debug\net8.0\Basic Applications - Assignment.dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 2\Assignment 2 Simple Quiz App\obj\Debug\net8.0\refint\Basic Applications - Assignment.dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 2\Assignment 2 Simple Quiz App\obj\Debug\net8.0\Basic Applications - Assignment.pdb
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 2\Assignment 2 Simple Quiz App\obj\Debug\net8.0\Basic Applications - Assignment.genruntimeconfig.cache
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 2\Assignment 2 Simple Quiz App\obj\Debug\net8.0\ref\Basic Applications - Assignment.dll

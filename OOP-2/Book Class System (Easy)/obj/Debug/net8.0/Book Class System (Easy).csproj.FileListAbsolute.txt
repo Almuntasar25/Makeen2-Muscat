@@ -1,0 +1,14 @@
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Book Class System (Easy)\bin\Debug\net8.0\Book Class System (Easy).exe
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Book Class System (Easy)\bin\Debug\net8.0\Book Class System (Easy).deps.json
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Book Class System (Easy)\bin\Debug\net8.0\Book Class System (Easy).runtimeconfig.json
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Book Class System (Easy)\bin\Debug\net8.0\Book Class System (Easy).dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Book Class System (Easy)\bin\Debug\net8.0\Book Class System (Easy).pdb
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Book Class System (Easy)\obj\Debug\net8.0\Book Class System (Easy).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Book Class System (Easy)\obj\Debug\net8.0\Book Class System (Easy).AssemblyInfoInputs.cache
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Book Class System (Easy)\obj\Debug\net8.0\Book Class System (Easy).AssemblyInfo.cs
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Book Class System (Easy)\obj\Debug\net8.0\Book Class System (Easy).csproj.CoreCompileInputs.cache
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Book Class System (Easy)\obj\Debug\net8.0\Book Class System (Easy).dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Book Class System (Easy)\obj\Debug\net8.0\refint\Book Class System (Easy).dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Book Class System (Easy)\obj\Debug\net8.0\Book Class System (Easy).pdb
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Book Class System (Easy)\obj\Debug\net8.0\Book Class System (Easy).genruntimeconfig.cache
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Book Class System (Easy)\obj\Debug\net8.0\ref\Book Class System (Easy).dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EST\\Desktop\\Makeen-Muscat-Almuntasar-Alamri\\To-Do List Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88A22AC9-7279-465F-BCCC-D4669E022A01}|To-Do List Application.csproj|c:\\users\\est\\desktop\\makeen-muscat-almuntasar-alamri\\to-do list application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A22AC9-7279-465F-BCCC-D4669E022A01}|To-Do List Application.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EST\\Desktop\\Makeen-Muscat-Almuntasar-Alamri\\To-Do List Application\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\EST\\Desktop\\Makeen-Muscat-Almuntasar-Alamri\\To-Do List Application\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:31:59.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

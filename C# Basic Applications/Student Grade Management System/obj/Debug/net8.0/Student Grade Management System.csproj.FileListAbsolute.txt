@@ -1,0 +1,14 @@
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 4\Assignment 4 Student Grade Management System\bin\Debug\net8.0\Student Grade Management System.exe
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 4\Assignment 4 Student Grade Management System\bin\Debug\net8.0\Student Grade Management System.deps.json
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 4\Assignment 4 Student Grade Management System\bin\Debug\net8.0\Student Grade Management System.runtimeconfig.json
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 4\Assignment 4 Student Grade Management System\bin\Debug\net8.0\Student Grade Management System.dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 4\Assignment 4 Student Grade Management System\bin\Debug\net8.0\Student Grade Management System.pdb
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 4\Assignment 4 Student Grade Management System\obj\Debug\net8.0\Student Grade Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 4\Assignment 4 Student Grade Management System\obj\Debug\net8.0\Student Grade Management System.AssemblyInfoInputs.cache
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 4\Assignment 4 Student Grade Management System\obj\Debug\net8.0\Student Grade Management System.AssemblyInfo.cs
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 4\Assignment 4 Student Grade Management System\obj\Debug\net8.0\Student Grade Management System.csproj.CoreCompileInputs.cache
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 4\Assignment 4 Student Grade Management System\obj\Debug\net8.0\Student Grade Management System.dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 4\Assignment 4 Student Grade Management System\obj\Debug\net8.0\refint\Student Grade Management System.dll
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 4\Assignment 4 Student Grade Management System\obj\Debug\net8.0\Student Grade Management System.pdb
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 4\Assignment 4 Student Grade Management System\obj\Debug\net8.0\Student Grade Management System.genruntimeconfig.cache
+C:\Users\EST\Desktop\Makeen-Muscat-Almuntasar-Alamri\Assignment 4\Assignment 4 Student Grade Management System\obj\Debug\net8.0\ref\Student Grade Management System.dll

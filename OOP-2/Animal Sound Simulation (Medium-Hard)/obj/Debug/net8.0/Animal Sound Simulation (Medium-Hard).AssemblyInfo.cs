@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Animal Sound Simulation (Medium-Hard)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33bcd25e1721e13ae7dd8116a2216a896508a61b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Animal Sound Simulation (Medium-Hard)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Animal Sound Simulation (Medium-Hard)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

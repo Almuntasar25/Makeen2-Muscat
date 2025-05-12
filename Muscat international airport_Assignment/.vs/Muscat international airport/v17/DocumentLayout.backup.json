@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0909A784-A3ED-4083-94C5-201995AE23AE}|Muscat international airport.csproj|c:\\users\\est\\desktop\\makeen-muscat\\muscat international airport\\context\\application dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0909A784-A3ED-4083-94C5-201995AE23AE}|Muscat international airport.csproj|solutionrelative:context\\application dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EST\\Desktop\\Proplem Of a Day\\C# test\\Muscat international airport\\Migrations\\20250511203850_Muscat_international_airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EST\\Desktop\\Proplem Of a Day\\C# test\\Muscat international airport\\Migrations\\20250511203359_Muscat_international_airport.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\AirportOfficer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:context\\AirportOfficer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\Baggage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:context\\Baggage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\Checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:context\\Checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\passengers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:context\\passengers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\Terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:context\\Terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\Gates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:context\\Gates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\Flights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:context\\Flights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\Airlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:context\\Airlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EST\\Desktop\\Proplem Of a Day\\C# test\\Muscat international airport\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250511203850_Muscat_international_airport.cs",
+              "DocumentMoniker": "C:\\Users\\EST\\Desktop\\Proplem Of a Day\\C# test\\Muscat international airport\\Migrations\\20250511203850_Muscat_international_airport.cs",
+              "RelativeDocumentMoniker": "..\\..\\Proplem Of a Day\\C# test\\Muscat international airport\\Migrations\\20250511203850_Muscat_international_airport.cs",
+              "ToolTip": "C:\\Users\\EST\\Desktop\\Proplem Of a Day\\C# test\\Muscat international airport\\Migrations\\20250511203850_Muscat_international_airport.cs",
+              "RelativeToolTip": "..\\..\\Proplem Of a Day\\C# test\\Muscat international airport\\Migrations\\20250511203850_Muscat_international_airport.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:38:51.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250511203359_Muscat_international_airport.context.cs",
+              "DocumentMoniker": "C:\\Users\\EST\\Desktop\\Proplem Of a Day\\C# test\\Muscat international airport\\Migrations\\20250511203359_Muscat_international_airport.context.cs",
+              "RelativeDocumentMoniker": "..\\..\\Proplem Of a Day\\C# test\\Muscat international airport\\Migrations\\20250511203359_Muscat_international_airport.context.cs",
+              "ToolTip": "C:\\Users\\EST\\Desktop\\Proplem Of a Day\\C# test\\Muscat international airport\\Migrations\\20250511203359_Muscat_international_airport.context.cs",
+              "RelativeToolTip": "..\\..\\Proplem Of a Day\\C# test\\Muscat international airport\\Migrations\\20250511203359_Muscat_international_airport.context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:33:59.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AirportOfficer.cs",
+              "DocumentMoniker": "C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\AirportOfficer.cs",
+              "RelativeDocumentMoniker": "context\\AirportOfficer.cs",
+              "ToolTip": "C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\AirportOfficer.cs",
+              "RelativeToolTip": "context\\AirportOfficer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:28:25.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Baggage.cs",
+              "DocumentMoniker": "C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\Baggage.cs",
+              "RelativeDocumentMoniker": "context\\Baggage.cs",
+              "ToolTip": "C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\Baggage.cs",
+              "RelativeToolTip": "context\\Baggage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:27:13.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Checkpoint.cs",
+              "DocumentMoniker": "C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\Checkpoint.cs",
+              "RelativeDocumentMoniker": "context\\Checkpoint.cs",
+              "ToolTip": "C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\Checkpoint.cs",
+              "RelativeToolTip": "context\\Checkpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:25:00.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "passengers.cs",
+              "DocumentMoniker": "C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\passengers.cs",
+              "RelativeDocumentMoniker": "context\\passengers.cs",
+              "ToolTip": "C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\passengers.cs",
+              "RelativeToolTip": "context\\passengers.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAACpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:16:38.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Terminal.cs",
+              "DocumentMoniker": "C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\Terminal.cs",
+              "RelativeDocumentMoniker": "context\\Terminal.cs",
+              "ToolTip": "C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\Terminal.cs",
+              "RelativeToolTip": "context\\Terminal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:13:40.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Gates.cs",
+              "DocumentMoniker": "C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\Gates.cs",
+              "RelativeDocumentMoniker": "context\\Gates.cs",
+              "ToolTip": "C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\Gates.cs",
+              "RelativeToolTip": "context\\Gates.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:07:45.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Flights.cs",
+              "DocumentMoniker": "C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\Flights.cs",
+              "RelativeDocumentMoniker": "context\\Flights.cs",
+              "ToolTip": "C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\Flights.cs",
+              "RelativeToolTip": "context\\Flights.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:03:41.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Airlines.cs",
+              "DocumentMoniker": "C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\Airlines.cs",
+              "RelativeDocumentMoniker": "context\\Airlines.cs",
+              "ToolTip": "C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\Airlines.cs",
+              "RelativeToolTip": "context\\Airlines.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:20:23.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\Application DbContext.cs",
+              "RelativeDocumentMoniker": "context\\Application DbContext.cs",
+              "ToolTip": "C:\\Users\\EST\\Desktop\\Makeen-Muscat\\Muscat international airport\\context\\Application DbContext.cs",
+              "RelativeToolTip": "context\\Application DbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:08:33.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EST\\Desktop\\Proplem Of a Day\\C# test\\Muscat international airport\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Proplem Of a Day\\C# test\\Muscat international airport\\Program.cs",
+              "ToolTip": "C:\\Users\\EST\\Desktop\\Proplem Of a Day\\C# test\\Muscat international airport\\Program.cs",
+              "RelativeToolTip": "..\\..\\Proplem Of a Day\\C# test\\Muscat international airport\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:47:54.971Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

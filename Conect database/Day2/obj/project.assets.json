@@ -4012,11 +4012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EST\\Desktop\\Proplem Of a Day\\C# test\\conect data base\\conect data base\\conect data base.csproj",
+      "projectUniqueName": "C:\\Users\\EST\\Desktop\\Makeen2-Muscat\\Conect database\\Day2\\conect data base.csproj",
       "projectName": "conect data base",
-      "projectPath": "C:\\Users\\EST\\Desktop\\Proplem Of a Day\\C# test\\conect data base\\conect data base\\conect data base.csproj",
+      "projectPath": "C:\\Users\\EST\\Desktop\\Makeen2-Muscat\\Conect database\\Day2\\conect data base.csproj",
       "packagesPath": "C:\\Users\\EST\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EST\\Desktop\\Proplem Of a Day\\C# test\\conect data base\\conect data base\\obj\\",
+      "outputPath": "C:\\Users\\EST\\Desktop\\Makeen2-Muscat\\Conect database\\Day2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

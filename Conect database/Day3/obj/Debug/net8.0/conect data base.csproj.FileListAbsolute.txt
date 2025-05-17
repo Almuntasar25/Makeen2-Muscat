@@ -1,0 +1,6 @@
+C:\Users\EST\Desktop\Makeen2-Muscat\Conect database\Day3\obj\Debug\net8.0\conect data base.csproj.AssemblyReference.cache
+C:\Users\EST\Desktop\Makeen2-Muscat\Conect database\Day3\obj\Debug\net8.0\conect data base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EST\Desktop\Makeen2-Muscat\Conect database\Day3\obj\Debug\net8.0\conect data base.AssemblyInfoInputs.cache
+C:\Users\EST\Desktop\Makeen2-Muscat\Conect database\Day3\obj\Debug\net8.0\conect data base.AssemblyInfo.cs
+C:\Users\EST\Desktop\Makeen2-Muscat\Conect database\Day3\obj\Debug\net8.0\conect data base.csproj.CoreCompileInputs.cache
+C:\Users\EST\Desktop\Makeen2-Muscat\Conect database\Day3\obj\Debug\net8.0\conect data base.sourcelink.json

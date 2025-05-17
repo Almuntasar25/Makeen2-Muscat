@@ -20,5 +20,8 @@ namespace CodeAcademyShope.model
         public int categoryId { get; set; }
 
         public string HasDiscount { get; set; }
-}
+
+        public int price { get; set; }
+        public int quntity { get; set; }
+    }
 }

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using CodeAcademyShope.model;
+using conect_data_base.Configuration;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Identity.Client;
 
@@ -18,20 +19,22 @@ namespace CodeAcademyShope.context
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Product>()
-                .Property(p => p.HasDiscount)
-                .HasDefaultValue(false)
-                .IsRequired(false);
+            modelBuilder.ApplyConfiguration(new ProductConfiguration());
 
-            modelBuilder.Entity<Product>()
-                .Property(p => p.Description)
-                .IsRequired(false)
-                .HasMaxLength(50);
+            //modelBuilder.Entity<Product>()
+            //    .Property(p => p.HasDiscount) 
+            //    .HasDefaultValue(false)
+            //    .IsRequired(false);
+
+            //modelBuilder.Entity<Product>()
+            //    .Property(p => p.Description)
+            //    .IsRequired(false)
+            //    .HasMaxLength(50);
 
         }
 
 
-            public DbSet <Product> Products { get; set; }
+        public DbSet <Product> Products { get; set; }
         public DbSet <Category> category { get; set; }
     }
 

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\testC#\Tesetproject\bin\Debug\net8.0\Tesetproject.exe
+C:\Users\user\Desktop\testC#\Tesetproject\bin\Debug\net8.0\Tesetproject.deps.json
+C:\Users\user\Desktop\testC#\Tesetproject\bin\Debug\net8.0\Tesetproject.runtimeconfig.json
+C:\Users\user\Desktop\testC#\Tesetproject\bin\Debug\net8.0\Tesetproject.dll
+C:\Users\user\Desktop\testC#\Tesetproject\bin\Debug\net8.0\Tesetproject.pdb
+C:\Users\user\Desktop\testC#\Tesetproject\obj\Debug\net8.0\Tesetproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\testC#\Tesetproject\obj\Debug\net8.0\Tesetproject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\testC#\Tesetproject\obj\Debug\net8.0\Tesetproject.AssemblyInfo.cs
+C:\Users\user\Desktop\testC#\Tesetproject\obj\Debug\net8.0\Tesetproject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\testC#\Tesetproject\obj\Debug\net8.0\Tesetproject.dll
+C:\Users\user\Desktop\testC#\Tesetproject\obj\Debug\net8.0\refint\Tesetproject.dll
+C:\Users\user\Desktop\testC#\Tesetproject\obj\Debug\net8.0\Tesetproject.pdb
+C:\Users\user\Desktop\testC#\Tesetproject\obj\Debug\net8.0\Tesetproject.genruntimeconfig.cache
+C:\Users\user\Desktop\testC#\Tesetproject\obj\Debug\net8.0\ref\Tesetproject.dll

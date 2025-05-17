@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace CodeAcademyShope.Migrations
+namespace conect_data_base.Migrations
 {
     [DbContext(typeof(ApplecationDbContext))]
     partial class ApplecationDbContextModelSnapshot : ModelSnapshot
@@ -49,11 +49,13 @@ namespace CodeAcademyShope.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Description")
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
 
                     b.Property<string>("HasDiscount")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("nvarchar(max)")
+                        .HasDefaultValue("False");
 
                     b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
@@ -62,6 +64,12 @@ namespace CodeAcademyShope.Migrations
                         .HasColumnType("int");
 
                     b.Property<int>("categoryId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("price")
+                        .HasColumnType("int");
+
+                    b.Property<int>("quntity")
                         .HasColumnType("int");
 
                     b.HasKey("Id");

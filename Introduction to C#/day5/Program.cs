@@ -8,149 +8,155 @@ namespace day2
     {
         static void Main(string[] args)
         {
-            //int[] number = { };
+            int[] number = { };
 
-            //Console.WriteLine("enter number:");
-            //int sum = 0;
+            Console.WriteLine("enter number:");
+            int sum = 0;
 
-            //int num =Convert.ToInt32(Console.ReadLine());
-            //while (num != 0) {
-            //    //
-            //    int digit = num % 10;
-            //    sum += digit;
-            //    num /= 10;
-            //}
-            //Console.WriteLine(sum);
-
-
-            //Console.WriteLine("number");
-            //int number=Convert.ToInt32(Console.ReadLine());
-            //int result = 1;
-            //for (int i = 1; i <= number; i++) {
-            //    result *= i;
-            //    Console.WriteLine(i);
-
-            //}
-            //Console.WriteLine(result);
+            int num = Convert.ToInt32(Console.ReadLine());
+            while (num != 0)
+            {
+                //
+                int digit = num % 10;
+                sum += digit;
+                num /= 10;
+            }
+            Console.WriteLine(sum);
 
 
-            //int[,] matrix =
-            //{
-            //    {1,2,3,},
-            //    {4,5,6,}
-            //};
-            //for (int r = 0; r < matrix.Length; r++)
-            //{
+            Console.WriteLine("number");
+            int number1 = Convert.ToInt32(Console.ReadLine());
+            int result = 1;
+            for (int i = 1; i <= number1; i++)
+            {
+                result *= i;
+                Console.WriteLine(i);
 
-            //    for (int c = 0; c < matrix.GetLength(0); c++)
-            //    {
-            //        Console.WriteLine($"{matrix[r,c]}");
-            //    }
-            //}
+            }
+            Console.WriteLine(result);
 
-            // foreach read all type!
-            //String s = "hello";
-            //foreach (char c in s)
-            //{
-            //    Console.WriteLine(c);
-            //}
+
+            int[,] matrix =
+            {
+                {1,2,3,},
+                {4,5,6,}
+            };
+            for (int r = 0; r < matrix.Length; r++)
+            {
+
+                for (int c = 0; c < matrix.GetLength(0); c++)
+                {
+                    Console.WriteLine($"{matrix[r, c]}");
+                }
+            }
+
+            
+            String s = "hello";
+            foreach (char c in s)
+            {
+                Console.WriteLine(c);
+            }
 
 
             //1
             //12
             //123
             //1234
-            //int num = 4;
-            //for (int i = 1; i <= num; i++) {
 
-            //    for (int j = 1; j <= i; j++)
-            //    {
-            //        Console.Write(j+" ");
-            //        Console.WriteLine();
-            //    }
+            int num1 = 4;
+            for (int i = 1; i <= num1; i++)
+            {
 
-            //}
+                for (int j = 1; j <= i; j++)
+                {
+                    Console.Write(j + " ");
+                    Console.WriteLine();
+                }
+
+            }
             // go to point***************
-            //int x = 5;
+            int x = 5;
 
-            //Point:
-            //    Console.WriteLine("go to");
-            //    if (x <= 7 )
-            //    {
-            //        Console.WriteLine("smaller");
-            //    x = 8;
-            //    goto Point;
+            Point:
+                Console.WriteLine("go to");
+                if (x <= 7 )
+                {
+                    Console.WriteLine("smaller");
+                x = 8;
+                goto Point;
 
-            //    }
-            //}
-
-
-            //string s1 = "5";
-            //string s2 = "2";
-            //Console.WriteLine(int.Parse(s1)+int.Parse(s2)); // Casteng to int but canot casting "null"!!
-            //Console.WriteLine(Convert.ToInt32(s1) + Convert.ToInt32(s2)); //  Casteng to int
-
-            //Console.WriteLine("enter marke");
-            //string[] stodent_marke = Console.ReadLine().Split(" ");
-            //string score = "";
-
-            //for (int i = 0; i < stodent_marke.Length; i++)
-            //{
-            //    int marke = Convert.ToInt32(stodent_marke[i]);
-            //    if (marke <= 100 && marke >= 90)
-            //    {
-            //        score += " "+"A";
-            //    }
-            //    else if (marke <= 89 && marke >= 80)
-            //    {
-            //        score += "  "+"B";
-            //    }
-            //    else if (marke <= 79 && marke >= 70)
-            //    {
-            //        score += "  "+ "C";
-            //    }
-            //    else if (marke <= 69 && marke >= 60)
-            //    {
-            //        score += "  " + "D";
-            //    }
-            //    else {
-            //        score += "  "+ "F";
-            //    }
-            //}
-            //Console.WriteLine(score);
+                }
 
 
-            //int[] num = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, };
-            //Array.Sort(num);
-            //Array.Reverse(num);
-            //for (int i = 0; i < num.Length; i++)
-            //{
-            //    Console.WriteLine(num[i] + " ");
-            //}
 
-            //int[] num = { 30 ,10 , 40 ,5, 1 }; //source
-            //int[] num2 =new int [3]{ 1,4,6 }; //destnetion
-            //Array.Copy(num , 0 , num2,1 ,2);
-            //Array.Sort(num);
-            //Array.Reverse(num);
-            //for (int i = 0; i < num.Length; i++)
-            //{
-            //    Console.WriteLine(num2[i] + " ");
-            //}
-            //Console.WriteLine("name");
-            //string FName = Console.ReadLine();
-            //Console.WriteLine("last name");
+            string s1 = "5";
+            string s2 = "2";
+            Console.WriteLine(int.Parse(s1) + int.Parse(s2)); // Casteng to int but canot casting "null"!!
+            Console.WriteLine(Convert.ToInt32(s1) + Convert.ToInt32(s2)); //  Casteng to int
 
-            //string lName = Console.ReadLine();
-            //Console.WriteLine("worced Houers:");
+            Console.WriteLine("enter marke");
+            string[] stodent_marke = Console.ReadLine().Split(" ");
+            string score = "";
 
-            //int worcedHouers =int.Parse(Console.ReadLine());
-            //Console.WriteLine("price:");
+            for (int i = 0; i < stodent_marke.Length; i++)
+            {
+                int marke = Convert.ToInt32(stodent_marke[i]);
+                if (marke <= 100 && marke >= 90)
+                {
+                    score += " " + "A";
+                }
+                else if (marke <= 89 && marke >= 80)
+                {
+                    score += "  " + "B";
+                }
+                else if (marke <= 79 && marke >= 70)
+                {
+                    score += "  " + "C";
+                }
+                else if (marke <= 69 && marke >= 60)
+                {
+                    score += "  " + "D";
+                }
+                else
+                {
+                    score += "  " + "F";
+                }
+            }
+            Console.WriteLine(score);
 
-            //double price = double.Parse(Console.ReadLine());
-            //const double TAX = 0.03;
-            //double salary = (worcedHouers * price) - (worcedHouers * price * TAX);
-            //Console.WriteLine($"{FName} {lName} worked for {worcedHouers}" , "and totall" + $"salary is {salary}");
+
+            int[] num2 = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, };
+            Array.Sort(num2);
+            Array.Reverse(num2);
+            for (int i = 0; i < num2.Length; i++)
+            {
+                Console.WriteLine(num2[i] + " ");
+            }
+
+            int[] num3 = { 30, 10, 40, 5, 1 }; //source
+            int[] num4 = new int[3] { 1, 4, 6 }; //destnetion
+            Array.Copy(num3, 0, num4, 1, 2);
+            Array.Sort(num3);
+            Array.Reverse(num3);
+            for (int i = 0; i < num3.Length; i++)
+            {
+                Console.WriteLine(num4[i] + " ");
+            }
+            Console.WriteLine("name");
+            string FName = Console.ReadLine();
+            Console.WriteLine("last name");
+
+            string lName = Console.ReadLine();
+            Console.WriteLine("worced Houers:");
+
+            int worcedHouers = int.Parse(Console.ReadLine());
+            Console.WriteLine("price:");
+
+            double price = double.Parse(Console.ReadLine());
+            const double TAX = 0.03;
+            double salary = (worcedHouers * price) - (worcedHouers * price * TAX);
+            Console.WriteLine($"{FName} {lName} worked for {worcedHouers}", "and totall" + $"salary is {salary}");
+
 
             Class1 o1 = new Class1();
             o1.FName = "Test";
@@ -172,7 +178,7 @@ namespace day2
 
             foreach (Class1 emp in employy)
             {
-                double salary = (emp.worcedHouers * emp.price) - (emp.worcedHouers * emp.price * Class1.TAX);
+                double salary1 = (emp.worcedHouers * emp.price) - (emp.worcedHouers * emp.price * Class1.TAX);
                 Console.WriteLine($"{emp.FName} {emp.lName} worked for {emp.worcedHouers}", "and totall" + $"salary is {emp.salary}");
 
 

@@ -12,3 +12,18 @@ C:\Users\user\Desktop\testC#\day7\obj\Debug\net8.0\refint\day7.dll
 C:\Users\user\Desktop\testC#\day7\obj\Debug\net8.0\day7.pdb
 C:\Users\user\Desktop\testC#\day7\obj\Debug\net8.0\day7.genruntimeconfig.cache
 C:\Users\user\Desktop\testC#\day7\obj\Debug\net8.0\ref\day7.dll
+C:\Users\user pc\Desktop\Makeen2-Muscat\Introduction to C#\day7\obj\Debug\net8.0\day7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user pc\Desktop\Makeen2-Muscat\Introduction to C#\day7\obj\Debug\net8.0\day7.AssemblyInfoInputs.cache
+C:\Users\user pc\Desktop\Makeen2-Muscat\Introduction to C#\day7\obj\Debug\net8.0\day7.AssemblyInfo.cs
+C:\Users\user pc\Desktop\Makeen2-Muscat\Introduction to C#\day7\obj\Debug\net8.0\day7.csproj.CoreCompileInputs.cache
+C:\Users\user pc\Desktop\Makeen2-Muscat\Introduction to C#\day7\obj\Debug\net8.0\day7.sourcelink.json
+C:\Users\user pc\Desktop\Makeen2-Muscat\Introduction to C#\day7\obj\Debug\net8.0\day7.dll
+C:\Users\user pc\Desktop\Makeen2-Muscat\Introduction to C#\day7\obj\Debug\net8.0\refint\day7.dll
+C:\Users\user pc\Desktop\Makeen2-Muscat\Introduction to C#\day7\obj\Debug\net8.0\day7.pdb
+C:\Users\user pc\Desktop\Makeen2-Muscat\Introduction to C#\day7\bin\Debug\net8.0\day7.exe
+C:\Users\user pc\Desktop\Makeen2-Muscat\Introduction to C#\day7\bin\Debug\net8.0\day7.deps.json
+C:\Users\user pc\Desktop\Makeen2-Muscat\Introduction to C#\day7\bin\Debug\net8.0\day7.runtimeconfig.json
+C:\Users\user pc\Desktop\Makeen2-Muscat\Introduction to C#\day7\bin\Debug\net8.0\day7.dll
+C:\Users\user pc\Desktop\Makeen2-Muscat\Introduction to C#\day7\bin\Debug\net8.0\day7.pdb
+C:\Users\user pc\Desktop\Makeen2-Muscat\Introduction to C#\day7\obj\Debug\net8.0\day7.genruntimeconfig.cache
+C:\Users\user pc\Desktop\Makeen2-Muscat\Introduction to C#\day7\obj\Debug\net8.0\ref\day7.dll

@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace day2
 {
-    internal class Class1
+    public class Class1
     {
-     
-
         public string FName;
         public string lName;
         public int worcedHouers;

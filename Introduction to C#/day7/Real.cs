@@ -9,7 +9,6 @@ namespace day7
     internal class Real
     {
             private double amount;
-        pr
 
         public Real(double amount)
         {

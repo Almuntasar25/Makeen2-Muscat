@@ -4,100 +4,99 @@
     {
         static void Main(string[] args)
         {
-            //int[] num = new int[3] {1,3,5};
-            //num[0] = 1;
-            //num[1] = 2;
-            //num[2] = 3;
-            //Console.WriteLine(num[2]);
+            int[] num = new int[3] { 1, 3, 5 };
+            num[0] = 1;
+            num[1] = 2;
+            num[2] = 3;
+            Console.WriteLine(num[2]);
 
 
-            //int[,] num1 = new int[0,1];
-            //num1[0,0] = 1;
-            //num1[0,1] = 2;
-            //num1[1,1] = 3;
-            //Console.WriteLine(num1[1,1]);
-            //Console.WriteLine(num1[0,1]);
+            int[,] num1 = new int[0, 1];
+            num1[0, 0] = 1;
+            num1[0, 1] = 2;
+            num1[1, 1] = 3;
+            Console.WriteLine(num1[1, 1]);
+            Console.WriteLine(num1[0, 1]);
 
-            //int[][] avg = new int [][];
-            //new int[] { 0, 1, 2, 3,);
+           
 
-            //int[] number = {1,2,3,4,6,5,6};
-            //int[] slice1 = number[2..4];
-            //int[] slice2 = number[2..];
-            //int[] slice3 = number[..5];
+            int[] number = { 1, 2, 3, 4, 6, 5, 6 };
+            int[] slice1 = number[2..4];
+            int[] slice2 = number[2..];
+            int[] slice3 = number[..5];
 
-            //Console.WriteLine(slice3[3]);
-
+            Console.WriteLine(slice3[3]);
 
 
-            //string name = Console.ReadLine();
-            //if (name == null )
-            //{
-            //    Console.WriteLine("Name:", name);
-            //}
-            //else { Console.WriteLine("no name"); }
+
+            string name = Console.ReadLine();
+            if (name == null)
+            {
+                Console.WriteLine("Name:", name);
+            }
+            else { Console.WriteLine("no name"); }
 
 
-            //string name = null;
-            //string num = name == null ? "null": name;
-            //Console.WriteLine(num);
+            string name1 = null;
+            string num2 = name == null ? "null" : name;
+            Console.WriteLine(num);
 
-            //Console.WriteLine("Enter number 1 :");
-            //int number1 =Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine("Enter + or - or * or / :");
-            //string x = Console.ReadLine();
-            //Console.WriteLine("Enter number 2 :");
-            //int number2 = Convert.ToInt32(Console.ReadLine());
-            //int rusolt;
+            Console.WriteLine("Enter number 1 :");
+            int number1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter + or - or * or / :");
+            string x = Console.ReadLine();
+            Console.WriteLine("Enter number 2 :");
+            int number2 = Convert.ToInt32(Console.ReadLine());
+            int rusolt;
 
-            //if (x == "+")
-            //{
-            //    rusolt = number1 + number2;
-            //    Console.WriteLine(number1 + " + " + number2 + " = " + rusolt);
-            //}
+            if (x == "+")
+            {
+                rusolt = number1 + number2;
+                Console.WriteLine(number1 + " + " + number2 + " = " + rusolt);
+            }
 
-            //else if (x == "*")
-            //{
-            //    rusolt = number1 * number2;
-            //    Console.WriteLine(number1 + " * " + number2 + " = " + rusolt);
-            //}
+            else if (x == "*")
+            {
+                rusolt = number1 * number2;
+                Console.WriteLine(number1 + " * " + number2 + " = " + rusolt);
+            }
 
-            //else if (x == "-")
-            //{
-            //    rusolt = number1 - number2;
-            //    Console.WriteLine(number1 + " - " + number2 + " = " + rusolt);
-            //}
-            //else if (x == "/")
-            //{
-            //    rusolt = number1 / number2;
-            //    Console.WriteLine(number1 + " / " + number2 + " = " + rusolt);
-            //}
+            else if (x == "-")
+            {
+                rusolt = number1 - number2;
+                Console.WriteLine(number1 + " - " + number2 + " = " + rusolt);
+            }
+            else if (x == "/")
+            {
+                rusolt = number1 / number2;
+                Console.WriteLine(number1 + " / " + number2 + " = " + rusolt);
+            }
 
 
-            //else
-            //{
-            //    Console.WriteLine("Enter eror ? plenter corect!");
-            //}
+            else
+            {
+                Console.WriteLine("Enter eror ? plenter corect!");
+            }
 
-            //Console.WriteLine("Enter number");
-            //int num =Convert.ToInt32( Console.ReadLine());
-            //if (num >= 0)
-            //{
-            //    if (num % 2 == 0)
-            //    {
-            //        Console.WriteLine("even");
-            //    }
-            //    else
-            //    {
-            //        Console.WriteLine("odd");
+            Console.WriteLine("Enter number");
+            int nu = Convert.ToInt32(Console.ReadLine());
+            if (nu  >= 0)
+            {
+                if (nu % 2 == 0)
+                {
+                    Console.WriteLine("even");
+                }
+                else
+                {
+                    Console.WriteLine("odd");
 
-            //    }
-            //}
+                }
+            }
 
-            //else
-            //{
-            //    Console.WriteLine("The number is negitev");
-            //}
+            else
+            {
+                Console.WriteLine("The number is negitev");
+            }
 
             Console.WriteLine("Enter number");
             string day =Console.ReadLine();

@@ -10,17 +10,17 @@
             Person P4 = new Person("sultan", 30, "nizwa");
             Person P5 = new Person("mohammd", 30, "nizwa");
 
-            //string person_data= p1.PersonData(); //  person_dataتخزن القيمة الراجعة م المثود و تتخزن في متغير
-            //Console.WriteLine(p1.PersonData()); //  mathodطباعة القيمة المرجعة من
+            string person_data = p1.PersonData(); //  person_dataتخزن القيمة الراجعة م المثود و تتخزن في متغير
+            Console.WriteLine(p1.PersonData()); //  mathodطباعة القيمة المرجعة من
 
-            //Person[] people = { p1, P2, P3, P4, P5 };
+            Person[] people = { p1, P2, P3, P4, P5 };
 
-            //foreach (Person person in people)
-            //{
-            //    Console.WriteLine(person.PersonData());
+            foreach (Person person in people)
+            {
+                Console.WriteLine(person.PersonData());
 
 
-            //}
+            }
 
             Student s1 = new Student(3.4 , "Sulem", 20, "Muscat");
             Console.WriteLine(s1.PersonData());

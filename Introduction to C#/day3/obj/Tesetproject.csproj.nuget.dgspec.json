@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# cours1\\testC#\\testC#\\day3\\Tesetproject.csproj": {}
+    "C:\\Users\\user pc\\Desktop\\Makeen2-Muscat\\Introduction to C#\\day3\\Tesetproject.csproj": {}
   },
   "projects": {
-    "D:\\C# cours1\\testC#\\testC#\\day3\\Tesetproject.csproj": {
+    "C:\\Users\\user pc\\Desktop\\Makeen2-Muscat\\Introduction to C#\\day3\\Tesetproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# cours1\\testC#\\testC#\\day3\\Tesetproject.csproj",
+        "projectUniqueName": "C:\\Users\\user pc\\Desktop\\Makeen2-Muscat\\Introduction to C#\\day3\\Tesetproject.csproj",
         "projectName": "Tesetproject",
-        "projectPath": "D:\\C# cours1\\testC#\\testC#\\day3\\Tesetproject.csproj",
+        "projectPath": "C:\\Users\\user pc\\Desktop\\Makeen2-Muscat\\Introduction to C#\\day3\\Tesetproject.csproj",
         "packagesPath": "C:\\Users\\user pc\\.nuget\\packages\\",
-        "outputPath": "D:\\C# cours1\\testC#\\testC#\\day3\\obj\\",
+        "outputPath": "C:\\Users\\user pc\\Desktop\\Makeen2-Muscat\\Introduction to C#\\day3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

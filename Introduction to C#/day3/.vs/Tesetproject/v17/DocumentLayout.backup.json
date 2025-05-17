@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\EST\\Desktop\\\u0627\u0643\u062A\u0641\u062A\u064A \u0627\u0643\u0627\u062F\u064A\u0645\u064A\u0629 \u0627\u0644\u0628\u0631\u0645\u062C\u0629\\C# cours1\\testC#\\testC#\\day3\\",
+  "WorkspaceRootPath": "C:\\Users\\user pc\\Desktop\\Makeen2-Muscat\\Introduction to C#\\day3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C44BDE62-DA77-4388-8160-2C1F6A31BA13}|Tesetproject.csproj|c:\\users\\est\\desktop\\\u0627\u0643\u062A\u0641\u062A\u064A \u0627\u0643\u0627\u062F\u064A\u0645\u064A\u0629 \u0627\u0644\u0628\u0631\u0645\u062C\u0629\\c# cours1\\testc#\\testc#\\day3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C44BDE62-DA77-4388-8160-2C1F6A31BA13}|Tesetproject.csproj|c:\\users\\user pc\\desktop\\makeen2-muscat\\introduction to c#\\day3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C44BDE62-DA77-4388-8160-2C1F6A31BA13}|Tesetproject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\EST\\Desktop\\\u0627\u0643\u062A\u0641\u062A\u064A \u0627\u0643\u0627\u062F\u064A\u0645\u064A\u0629 \u0627\u0644\u0628\u0631\u0645\u062C\u0629\\C# cours1\\testC#\\testC#\\day3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user pc\\Desktop\\Makeen2-Muscat\\Introduction to C#\\day3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\EST\\Desktop\\\u0627\u0643\u062A\u0641\u062A\u064A \u0627\u0643\u0627\u062F\u064A\u0645\u064A\u0629 \u0627\u0644\u0628\u0631\u0645\u062C\u0629\\C# cours1\\testC#\\testC#\\day3\\Program.cs",
+              "ToolTip": "C:\\Users\\user pc\\Desktop\\Makeen2-Muscat\\Introduction to C#\\day3\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwHUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T04:31:33.914Z",
               "EditorCaption": ""

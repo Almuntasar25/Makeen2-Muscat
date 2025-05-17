@@ -7,7 +7,7 @@
             //date d = new date(1, 2, 2000);
             //Console.WriteLine(d.ToString());
 
-            Student student= new Student("ahmed", 1);
+            Student student = new Student("ahmed", 1);
             Student student1 = new Student("ahmed", 1);
 
             //teacher t1 = new teacher();
@@ -25,12 +25,12 @@
             Console.WriteLine(student.ToString());
             Console.WriteLine(student.ToString);
 
-            
+
 
 
         }
-       
-        public abstract class person 
+
+        public abstract class person
         {
             public string name;
             public int id;
@@ -38,7 +38,7 @@
             public person(string name, int id)
             {
                 this.name = name;
-                this.id=id;
+                this.id = id;
             }
 
             public virtual string sayHi()
@@ -50,8 +50,9 @@
         public class Student : person
         {
 
-            public Student (string name , int id) :base(name,id) {
-            
+            public Student(string name, int id) : base(name, id)
+            {
+
 
             }
             public string ToString()
@@ -66,17 +67,5 @@
             }
 
         }
-
-        //public override string ToString()
-        //{
-        //    //return $"the {name}";
-        //}
-        //public class teacher : person { }
-        //{
-
-
-        //}
-
-
     }
 }

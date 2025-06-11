@@ -7757,11 +7757,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user pc\\Desktop\\Asp.Net\\To Do\\To Do\\To Do\\To Do.csproj",
+      "projectUniqueName": "C:\\Users\\user pc\\Desktop\\Makeen2\\Asp-.Net(Mvc)\\To Do\\To Do\\To Do\\To Do.csproj",
       "projectName": "To Do",
-      "projectPath": "C:\\Users\\user pc\\Desktop\\Asp.Net\\To Do\\To Do\\To Do\\To Do.csproj",
+      "projectPath": "C:\\Users\\user pc\\Desktop\\Makeen2\\Asp-.Net(Mvc)\\To Do\\To Do\\To Do\\To Do.csproj",
       "packagesPath": "C:\\Users\\user pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user pc\\Desktop\\Asp.Net\\To Do\\To Do\\To Do\\obj\\",
+      "outputPath": "C:\\Users\\user pc\\Desktop\\Makeen2\\Asp-.Net(Mvc)\\To Do\\To Do\\To Do\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

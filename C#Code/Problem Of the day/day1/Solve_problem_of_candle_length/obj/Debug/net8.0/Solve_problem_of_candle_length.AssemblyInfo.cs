@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Solve_problem_of_candle_length")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+052bd4479d5df6c1ed8c9a48bc0a73b1d95d98e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2e93d492c798e9f71658083ac4b1162ccae07ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("Solve_problem_of_candle_length")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Solve_problem_of_candle_length")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

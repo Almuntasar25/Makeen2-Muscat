@@ -1,0 +1,164 @@
+body{
+    margin:0;
+    font-family:Arial;
+}
+/*-------------------------- header ---------------------*/
+header{
+    background-color: aliceblue;
+    padding:10px 20px;
+    box-shadow:0 2px 20px rgba(0, 0, 0, 0.1);
+    padding: 0 110px;
+}
+
+.navbar{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#logo{
+    width:70px;
+    height:70px;
+}
+
+.brand{
+    display:flex;
+    align-items: center;
+    
+}
+#brand-name{
+    color: #3f9fdb;
+}
+
+.navbar nav{
+    display:flex;
+    gap:30px;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.navbar a:hover{
+    color: #238ed0;
+}
+
+/*-------------------------- photos ---------------------*/
+.photos{
+    background: url('../imgs/waterfall1.jpg');
+    height: 300px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.search{
+    display:flex;
+    
+    background-color: #fff;
+    
+    
+}
+.search input{
+    width:300px;
+    padding:5px;
+    border: none; 
+}
+.search button{
+   padding:8px 12px;
+   border:none;
+   color:#fff;
+   background: #238ed0;
+}
+
+.search img{
+    width: 20px;
+}
+.video{
+    padding: 40px 20px;
+}
+.pagination {
+    display: flex;
+    color: #3f9fdb;
+    margin: 5px;
+    justify-content: space-between;
+}
+.video h2{
+    color: #3f9fdb;
+   
+}
+
+.gallery{
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    gap: 20px;
+}
+.video-card{
+    background-color: #fff;
+    overflow: hidden;
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
+}
+.video-card img{
+    width: 100%;
+    height: auto;
+}
+.info {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    font-size: 14px;
+    color: #666;
+  }
+  .pagination {
+    text-align: center;
+    margin-top: 30px;
+  }
+  .pagination button {
+    margin: 0 5px;
+    padding: 8px 12px;
+    border: none;
+    background: #238ed0;
+    color: white;
+    cursor: pointer;
+}
+.pagination .pages button.active {
+    background: coral;
+}
+
+footer {
+    background: #f1f1f1;
+    padding: 30px 20px;
+    margin-top: 40px;
+}
+.footer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+.footer div {
+    max-width: 300px;
+}
+.footer h3 {
+    margin-bottom: 10px;
+    color: #238ed0;
+}
+.footer ul {
+    list-style: none;
+    padding: 0;
+}
+.footer ul li a {
+    text-decoration: none;
+    color: #333;
+    display: block;
+    margin-bottom: 5px;
+}
+.bottom {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #999;
+}
